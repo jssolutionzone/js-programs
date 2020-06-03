@@ -2,7 +2,7 @@
 We have a variety of programs available for you, which may help you to crack your interviews. Here, programs are written in javascript, but you can see the logic and write it in your convenient language. 
 
 ### Problem - 1
-> **Qn.** Write a function, which accepts array of objects (object having name and price as an attribute) as string and sort them
+> Write a function, which accepts array of objects (object having name and price as an attribute) as string and sort them
   in ascending order as per below rules. <br>
   **Rule 1.** If all the prices are unique then, sort that array in ascending order by price.<br>
   **Rule 2.** If all the prices are not unique then, sort that array in ascending order by name.<br>
