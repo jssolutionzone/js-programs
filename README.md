@@ -1,4 +1,4 @@
-# js-programs
+# Programs
 We have a variety of programs available for you, which may help you to crack your interviews. Here, programs are written in javascript, but you can see the logic and write it in your convenient language. 
 
 ### Problem - 1
