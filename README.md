@@ -3,11 +3,12 @@ We have a variety of programs available for you, which may help you to crack you
 
 ### Problem - 1
 > Qn. Write a function, which accepts array of objects (object having name and price as an attribute) as string and sort them
-  in ascending order as per below rules. 
-  Rule 1. If all the prices are unique then, sort that array in ascending order by price.
-  Rule 2. If all the prices are not unique then, sort that array in ascending order by name.
+  in ascending order as per below rules. <br>
+  Rule 1. If all the prices are unique then, sort that array in ascending order by price.<br>
+  Rule 2. If all the prices are not unique then, sort that array in ascending order by name.<br>
 
 ```js
+
 function hasDuplicatePrice(list) {
     const priceArr = [];
     let hasDuplicate = false;
@@ -21,6 +22,7 @@ function hasDuplicatePrice(list) {
     });
     return hasDuplicate;
 }
+
 function sortByAscending(jsonString) {
     const priceList = JSON.parse(jsonString);
     let sortedPriceList = [];

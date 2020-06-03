@@ -19,6 +19,7 @@ function hasDuplicatePrice(list) {
     });
     return hasDuplicate;
 }
+
 function sortByAscending(jsonString) {
     const priceList = JSON.parse(jsonString);
     let sortedPriceList = [];
